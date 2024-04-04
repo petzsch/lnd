@@ -213,3 +213,5 @@ replace google.golang.org/protobuf => github.com/lightninglabs/protobuf-go-hex-d
 go 1.19
 
 retract v0.0.2
+
+replace github.com/lightninglabs/neutrino v0.16.0 => github.com/ziggie1984/neutrino v0.15.1-0.20240403162326-1ef869ffea1a
